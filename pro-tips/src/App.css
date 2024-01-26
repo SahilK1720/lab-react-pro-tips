@@ -1,0 +1,26 @@
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.7rem;
+  background-color: rgb(19, 18, 18);
+  padding: 0.7vw;
+  box-shadow: 0 20px 20px 0 rgb(123, 123, 123);
+
+}
+
+.text{
+  text-decoration: none;
+  color: rgb(250, 32, 12);
+  font-weight: bold;
+}
+
+
+.center{
+  margin-top: 50px;
+  width: 100vw;
+  height: 38.6vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
